@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif" width="350" height="350"/>
 </div>
 <!--
 **Vrsargsy/Vrsargsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
